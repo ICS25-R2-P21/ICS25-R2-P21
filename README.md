@@ -1,4 +1,4 @@
-## Hi there 👋
+## This Repo contains the code for anonyomous submission for ICS25
 
 <!--
 **ICS25-R2-P21/ICS25-R2-P21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
